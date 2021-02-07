@@ -1,0 +1,1 @@
+docker run -itv /mnt/c/Users/user/github/rust_docker/src:/project rust-env  
